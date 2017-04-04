@@ -1,7 +1,7 @@
 # Exercise-1: practice with basic syntax
 
 # Create a variable `hometown` that stores the city in which you were born
-hometown <- 'Maryland'
+hometown <- 'Baltimore'
 # Assign your name to the variable `my.name`
 my.name <- 'Zach'
 # Assign your height to a variable `my.height`
@@ -16,4 +16,3 @@ total.cost <- puppies*puppy.price
 too.expensive <- 2>3
 # Create a variable `max.puppies`, which is the nuber of puppies you can afford for $1K.
 max.puppies <- 1000/total.cost
-
